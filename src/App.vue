@@ -148,7 +148,6 @@
             type="warning"
             prominent
             border="top"
-            w-50
           >
             (By checking "Bypass E911 Address Automation" you agree to manually
             add this phone number and address to Bandwidth)
