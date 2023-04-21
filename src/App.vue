@@ -151,7 +151,7 @@
             w-50
           >
             (By checking "Bypass E911 Address Automation" you agree to manually
-            add this phone number and address to bandwidth)
+            add this phone number and address to Bandwidth)
           </v-alert>
           </v-sheet>
         </div>
